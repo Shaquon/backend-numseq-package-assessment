@@ -1,4 +1,4 @@
-## Overview - Creating Packages
+s## Overview - Creating Packages
 
 Packages allow us organize and group modules (or python files). Python requires a specific structure for package definitions.
 The directory name is the name of the package used in an import statement (`import package_name`). The submodules can be access as attributes of the package as in `package_name.submodule_name`.
