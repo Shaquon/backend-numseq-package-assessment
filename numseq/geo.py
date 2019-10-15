@@ -1,5 +1,5 @@
 """
-3 functions, square, triangle, cube. 
+3 functions, square, triangle, cube.
 """
 
 
